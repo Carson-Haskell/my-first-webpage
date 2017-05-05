@@ -1,6 +1,6 @@
-# _Carson Haskell
+# _Carson Haskell_
 
-#### _README exercise for Epicodus, 05.05.2017
+#### _README exercise for Epicodus, 05.05.2017_
 
 #### By _**Carson Haskell**_
 
@@ -26,4 +26,4 @@ _Please do not contact me._
 
 ### License
 
-Copyright (c) 2017 **_Carson Haskell_** 
+Copyright (c) 2017 **_Carson Haskell_**
